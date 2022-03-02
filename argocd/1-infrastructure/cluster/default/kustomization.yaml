@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - base/namespace-cp4i-apic.yaml
   - base/openshift-marketplace-ibm-catalogs.yaml
+  - base/openshift-marketplace-ibm-entitlement-key.yaml
